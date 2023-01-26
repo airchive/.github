@@ -1,7 +1,7 @@
 # 🪶 Airchive
 Organization's root repository.
 
-## 📦 Installation
+## 📦 Install
 Follow the steps below to make use of this repository.
 
 1. Clone this repository:
