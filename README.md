@@ -1,4 +1,4 @@
-# 🖌️ Airchive
+# 🪶 Airchive
 Organization's root repository.
 
 ## 📦 Installation
