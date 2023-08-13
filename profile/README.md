@@ -20,12 +20,12 @@ Choose what you find more suitable for you:
   <img
     width="30px"
     alt="GitHub Sponsors"
-    src="https://raw.githubusercontent.com/airchive/.github/main/assets/images/github-sponsors.svg"
+    src="https://raw.githubusercontent.com/airchive/assets/main/images/github-sponsors.svg"
   />
 </a>&nbsp;
 <a href="https://kofi.airscript.it" target="blank">
   <img
-    src="https://raw.githubusercontent.com/airchive/.github/main/assets/images/kofi.svg"
+    src="https://raw.githubusercontent.com/airchive/assets/main/images/kofi.svg"
     alt="Kofi"
     width="30px"
   />
