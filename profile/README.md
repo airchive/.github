@@ -1,7 +1,5 @@
 # Airchive
-![Cover](https://raw.githubusercontent.com/airchive/.github/main/assets/images/cover.png)
-
-This is the archive linked to my [GitHub Profile](https://github.com/Airscripts).  
+This is the archive linked to my [GitHub Profile](https://github.com/airscripts).  
 Every project that finishes here has no active development ongoing.
 
 ## Contents
